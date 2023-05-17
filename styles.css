@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+
+nav {
+    background-color: #3A506B;
+}
+
+.d-flex {
+    color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.btn-login {
+    background-color: #2DD9D5;
+    border-radius: 8px;
+}
+
+.btn-registo {
+    background-color: #94BDEF;
+    border-radius: 8px;
+}
+
